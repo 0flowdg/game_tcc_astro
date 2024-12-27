@@ -18,7 +18,10 @@ Astroworld é um site que oferece conteúdos educativos e interativos sobre astr
 1. Baixe os arquivos ZIP deste repositório e baixe o GameMaker Studio no seguinte link: [https://gamemaker.io/pt-BR]
 2. Ao baixar os arquivos, os extraia na pasta que preferir, e instale o GameMaker.
 3. Ao abrir o GameMaker, clique em "Abrir" e selecione a pasta a qual extraiu os arquivos e selecione o arquivo **Space Rocks**.
-4. Após isso, aguarde os arquvios carregarem e clique no botão Play no canto superior esquerdo da tela. E boa jogatina! 
+4. Após isso, aguarde os arquvios carregarem e clique no botão Play no canto superior esquerdo da tela. E boa jogatina!
+
+![Captura de tela 2024-12-27 132245](https://github.com/user-attachments/assets/95250010-d55b-4484-b8eb-7654bf345c4b)
+
 
 ## 📦 Requisitos  
 - GameMaker Studio Runtime.  
